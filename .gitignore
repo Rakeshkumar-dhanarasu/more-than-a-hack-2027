@@ -62,3 +62,7 @@ __pycache__/
 venv/
 env/
 .DS_Store
+
+trial_room/football-players-detection-20/*
+trial_room/models/*
+trial_room/runs/*
